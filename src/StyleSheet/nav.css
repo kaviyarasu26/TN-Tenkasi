@@ -93,6 +93,12 @@ a:hover{
 .phone-menu{
     display: none;
 }
+.dropdown-list{
+    color: black;
+}
+.dropdown-list:hover{
+    color: orangered;
+}
 @media only screen and (max-width:800px){
     .nav-ul .li{
         display: none;
