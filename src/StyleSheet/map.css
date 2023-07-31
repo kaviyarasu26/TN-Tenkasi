@@ -1,0 +1,8 @@
+.map-cointainer{
+    width: 100%;
+    height: 100vh;
+  }
+  .map{
+    width: inherit;
+    height: inherit;
+  }
