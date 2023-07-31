@@ -45,12 +45,12 @@ export const Nav = () => {
         </div>
         <div className="nav-right">
           <ul className="nav-ul" type="none">
-            <li className="li"><Link to="/">Home</Link></li>
-            <li className="li"><Link to="/gis">GIS</Link></li>
+            <Link to="/"><li className='li'>Home</li></Link>
+            <Link to="/gis"><li className="li">GIS</li></Link>
             <li className="li" id="gov" onClick={handleDropdownClick}>
               Service
             </li>
-            <li className="li"><Link to="/about">About Us</Link></li>
+            <Link to="/about"><li className="li">About Us</li></Link>
 
           </ul>
           <div onClick={handleSizeReduced}>
@@ -63,19 +63,19 @@ export const Nav = () => {
           <div onClick={handleDropdownClick}><ImCross className='cross' /></div>
           <ul type="none">
             {/*<li  className="dropdown-list" ><Link to="/gov/all">All</Link></li>*/}
-            <li className="dropdown-list" ><Link to="/gov/agricultureOffices">Agriculture Offices</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/communityhall">Community Hall</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/firestation">Fire Station</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/govartcollege">Government Art College</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/govschool">Government School</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/govsubsidizationprogramme">Government Subsidizition Program</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/libraries">Libraries</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/municipalityoffice">Municipality Office</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/policestation">Police Station</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/primaryhealthcenter">Primary Health Center</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/proposedmarketforfarmers">Proposed Market For Farmers</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/railwaystation">Railway Station</Link></li>
-            <li className="dropdown-list" ><Link to="/gov/womenpolicestation">Women Police Station</Link></li>
+            <Link to="/gov/agricultureOffices"><li className="dropdown-list" >Agriculture Offices</li></Link>
+            <Link to="/gov/communityhall"><li className="dropdown-list" >Community Hall</li></Link>
+            <Link to="/gov/firestation"><li className="dropdown-list" >Fire Station</li></Link>
+            <Link to="/gov/govartcollege"><li className="dropdown-list" >Government Art College</li></Link>
+            <Link to="/gov/govschool"><li className="dropdown-list" >Government School</li></Link>
+            <Link to="/gov/govsubsidizationprogramme"><li className="dropdown-list" >Government Subsidizition Program</li></Link>
+            <Link to="/gov/libraries"><li className="dropdown-list" >Libraries</li></Link>
+            <Link to="/gov/municipalityoffice"><li className="dropdown-list" >Municipality Office</li></Link>
+            <Link to="/gov/policestation"><li className="dropdown-list" >Police Station</li></Link>
+            <Link to="/gov/primaryhealthcenter"><li className="dropdown-list" >Primary Health Center</li></Link>
+            <Link to="/gov/proposedmarketforfarmers"><li className="dropdown-list" >Proposed Market For Farmers</li></Link>
+            <Link to="/gov/railwaystation"><li className="dropdown-list" >Railway Station</li></Link>
+            <Link to="/gov/womenpolicestation"><li className="dropdown-list" >Women Police Station</li></Link>
           </ul>
         </div>
       )}
@@ -93,20 +93,20 @@ export const Nav = () => {
                 isSlider &&(
                   <li >
                 <ol className='ol' type="1">
-                  <li className="dropdown-l" ><Link to="/gov/all">All</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/agricultureOffices">Agriculture Offices</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/communityhall">Community Hall</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/firestation">Fire Station</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/govartcollege">Government Art College</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/govschool">Government School</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/govsubsidizationprogramme">Government Subsidizition Program</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/libraries">Libraries</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/municipalityoffice">Municipality Office</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/policestation">Police Station</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/primaryhealthcenter">Primary Health Center</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/proposedmarketforfarmers">Proposed Market For Farmers</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/railwaystation">Railway Station</Link></li>
-                  <li className="dropdown-l" ><Link to="/gov/womenpolicestation">Women Police Station</Link></li>
+                  <Link to="/gov/all"><li className="dropdown-l" >All</li></Link>
+                  <Link to="/gov/agricultureOffices"><li className="dropdown-l" >Agriculture Offices</li></Link>
+                  <Link to="/gov/communityhall"><li className="dropdown-l" >Community Hall</li></Link>
+                  <Link to="/gov/firestation"><li className="dropdown-l" >Fire Station</li></Link>
+                  <Link to="/gov/govartcollege"><li className="dropdown-l" >Government Art College</li></Link>
+                  <Link to="/gov/govschool"><li className="dropdown-l" >Government School</li></Link>
+                  <Link to="/gov/govsubsidizationprogramme"><li className="dropdown-l" >Government Subsidizition Program</li></Link>
+                  <Link to="/gov/libraries"><li className="dropdown-l" >Libraries</li></Link>
+                  <Link to="/gov/municipalityoffice"><li className="dropdown-l" >Municipality Office</li></Link>
+                  <Link to="/gov/policestation"><li className="dropdown-l" >Police Station</li></Link>
+                  <Link to="/gov/primaryhealthcenter"><li className="dropdown-l" >Primary Health Center</li></Link>
+                  <Link to="/gov/proposedmarketforfarmers"><li className="dropdown-l" >Proposed Market For Farmers</li></Link>
+                  <Link to="/gov/railwaystation"><li className="dropdown-l" >Railway Station</li></Link>
+                  <Link to="/gov/womenpolicestation"><li className="dropdown-l" >Women Police Station</li></Link>
                 </ol>
               </li>
                 )

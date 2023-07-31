@@ -15,7 +15,7 @@ export const Home = () => {
                     <div className='main-cointainer'>
                         <div className='left-container'>
                             <div>
-                                <h1 className='question'>What is <span className='logo'>TN-<span className='second'>Tenkasi?</span></span></h1>
+                                <h1 className='question'><span className='logo'>TN-<span className='second'>Tenkasi</span></span></h1>
                                 <p className='ans'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TN-Tenkasi provides geolocation-based information about the government's services providing areas in Tenkasi.</p>
                             </div>
                         </div>

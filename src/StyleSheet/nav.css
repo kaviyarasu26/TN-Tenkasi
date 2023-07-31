@@ -18,6 +18,12 @@
     font-size: 11px;
     margin-left: 20px;
     
+}a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: orangered;
 }
 .logo {
     font-family: 'Courier New', Courier, monospace !important;
@@ -106,7 +112,7 @@
         right: 0;   
         border-bottom-left-radius: 10px;
     }
-    .l a{
+     a{
         color: white;
         text-decoration: none;
     }

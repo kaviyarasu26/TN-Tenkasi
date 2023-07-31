@@ -7,6 +7,7 @@ export const Footer = () => {
             <div className='footer'>
                 <div className="foot">
                     <ul type="none">
+                        <lh className="footer-lh" >Service</lh>
                         <li className="footer-li"><Link className="link" to="/gov/agricultureOffices">Agriculture Offices</Link></li>
                         <li className="footer-li"><Link className="link" to="/gov/communityhall">Community Hall</Link></li>
                         <li className="footer-li"><Link className="link" to="/gov/firestation">Fire Station</Link></li>
