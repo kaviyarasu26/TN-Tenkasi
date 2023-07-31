@@ -21,10 +21,10 @@ import { All } from './pages/governmentServices/all';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/TN-Tenkasi'>
       <Routes>
         <Route path='/' element={<Layout />}>
-          <Route index path='/TN-Tenkasi' element={<Home />} />
+          <Route index path='/' element={<Home />} />
           <Route path='/gis' element={<Gis />} />
           <Route path='/about' element={<About />} />
           <Route path='/gov/libraries' element={<Libraries />} />
