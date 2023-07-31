@@ -1,6 +1,6 @@
 .box{
-    width: 180px;
-    height: 210px;
+    width: 220px;
+    height: 250px;
     background-color: lightgray;
     padding: 10px;
     border-radius: 7px;
@@ -19,4 +19,7 @@
     transform: scale(1.09);
     transition: 0.5s;
     
+}
+.name{
+    text-align: center;
 }
