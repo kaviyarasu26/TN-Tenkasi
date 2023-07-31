@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TN-Tenkasi/static/css/main.ae904535.css",
+    "main.js": "/TN-Tenkasi/static/js/main.d43e854d.js",
+    "static/media/SATE.png": "/TN-Tenkasi/static/media/SATE.10a7eba6cf37ba736811.png",
+    "static/media/SATE1.png": "/TN-Tenkasi/static/media/SATE1.c07162cfb234db171aae.png",
+    "static/media/Tenkasi_India street map.jpg": "/TN-Tenkasi/static/media/Tenkasi_India street map.650cafad7801feda4bf1.jpg",
+    "static/media/Tenkasi_NATGEO.jpg": "/TN-Tenkasi/static/media/Tenkasi_NATGEO.bceeb1bb1d45c6fd5eb2.jpg",
+    "static/media/Tenkasi_world imagery.jpg": "/TN-Tenkasi/static/media/Tenkasi_world imagery.f03faede58bb1d3fece0.jpg",
+    "static/media/Tenkasi_Topograph map.jpg": "/TN-Tenkasi/static/media/Tenkasi_Topograph map.961494772ec2cadd2eca.jpg",
+    "static/media/SPATIAL DATA.jpg": "/TN-Tenkasi/static/media/SPATIAL DATA.dec1c8577473e1c3c602.jpg",
+    "static/media/Tenkasi_Oceanbase map.jpg": "/TN-Tenkasi/static/media/Tenkasi_Oceanbase map.120d1560cec9c1293099.jpg",
+    "static/media/Tn-tenkasi-removebg-preview.png": "/TN-Tenkasi/static/media/Tn-tenkasi-removebg-preview.fda313491ac91c16f926.png",
+    "static/media/MAP.jpg": "/TN-Tenkasi/static/media/MAP.6072ad935b00cb4490c0.jpg",
+    "static/media/GGIS.png": "/TN-Tenkasi/static/media/GGIS.c9d02bc81ea2c3969846.png",
+    "static/media/vector.jpg": "/TN-Tenkasi/static/media/vector.0f81a3c4777c7125da01.jpg",
+    "static/media/dus.jpg": "/TN-Tenkasi/static/media/dus.a063c2cac6d7f38575c1.jpg",
+    "index.html": "/TN-Tenkasi/index.html",
+    "main.ae904535.css.map": "/TN-Tenkasi/static/css/main.ae904535.css.map",
+    "main.d43e854d.js.map": "/TN-Tenkasi/static/js/main.d43e854d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae904535.css",
+    "static/js/main.d43e854d.js"
+  ]
+}
