@@ -6,6 +6,7 @@ import { BsInfo } from "react-icons/bs";
 import { MdGroups2 } from "react-icons/md";
 import { CgWebsite } from "react-icons/cg";
 import dis from '../images/dus.jpg';
+import TNNN from "../images/TNNNN2.jpg"
 
 export const Home = () => {
     return (
@@ -60,7 +61,7 @@ export const Home = () => {
                 </div>
                 <div className='right-cointainer'>
                     <a href="http://www.maphill.com/india/tamil-nadu/tirunelveli-kattabomman/tenkasi/3d-maps/satellite-map/" title="Satellite 3D Map of Tenkāsi">
-                        <img className='mm' src="http://maps.maphill.com/atlas/9n00-77e25/3d-maps/satellite-map/fancy-satellite-3d-map-of-tenkasi.jpg" alt="Satellite 3D Map of Tenkāsi" /></a><br />
+                        <img className='mm' src={TNNN} alt="Satellite 3D Map of Tenkāsi" /></a><br />
                 </div>
             </div>
         </div>
