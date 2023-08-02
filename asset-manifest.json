@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TN-Tenkasi/static/css/main.ff001ca3.css",
-    "main.js": "/TN-Tenkasi/static/js/main.b5ef6ddd.js",
+    "main.css": "/TN-Tenkasi/static/css/main.b3ba5d49.css",
+    "main.js": "/TN-Tenkasi/static/js/main.4055e7a6.js",
     "static/media/SATE.png": "/TN-Tenkasi/static/media/SATE.10a7eba6cf37ba736811.png",
     "static/media/SATE1.png": "/TN-Tenkasi/static/media/SATE1.c07162cfb234db171aae.png",
     "static/media/Tenkasi_India street map.jpg": "/TN-Tenkasi/static/media/Tenkasi_India street map.650cafad7801feda4bf1.jpg",
@@ -14,13 +14,14 @@
     "static/media/MAP.jpg": "/TN-Tenkasi/static/media/MAP.6072ad935b00cb4490c0.jpg",
     "static/media/GGIS.png": "/TN-Tenkasi/static/media/GGIS.c9d02bc81ea2c3969846.png",
     "static/media/vector.jpg": "/TN-Tenkasi/static/media/vector.0f81a3c4777c7125da01.jpg",
+    "static/media/TNNNN2.jpg": "/TN-Tenkasi/static/media/TNNNN2.6980d5c23682d7d39351.jpg",
     "static/media/dus.jpg": "/TN-Tenkasi/static/media/dus.a063c2cac6d7f38575c1.jpg",
     "index.html": "/TN-Tenkasi/index.html",
-    "main.ff001ca3.css.map": "/TN-Tenkasi/static/css/main.ff001ca3.css.map",
-    "main.b5ef6ddd.js.map": "/TN-Tenkasi/static/js/main.b5ef6ddd.js.map"
+    "main.b3ba5d49.css.map": "/TN-Tenkasi/static/css/main.b3ba5d49.css.map",
+    "main.4055e7a6.js.map": "/TN-Tenkasi/static/js/main.4055e7a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff001ca3.css",
-    "static/js/main.b5ef6ddd.js"
+    "static/css/main.b3ba5d49.css",
+    "static/js/main.4055e7a6.js"
   ]
 }
