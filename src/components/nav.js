@@ -93,7 +93,6 @@ export const Nav = () => {
                 isSlider &&(
                   <li >
                 <ol className='ol' type="1">
-                  <Link to="/gov/all"><li className="dropdown-l" >All</li></Link>
                   <Link to="/gov/agricultureOffices"><li className="dropdown-l" >Agriculture Offices</li></Link>
                   <Link to="/gov/communityhall"><li className="dropdown-l" >Community Hall</li></Link>
                   <Link to="/gov/firestation"><li className="dropdown-l" >Fire Station</li></Link>

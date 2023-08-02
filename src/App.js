@@ -17,7 +17,7 @@ import { PoliceStation } from './pages/governmentServices/policeStation';
 import { PrimaryHealthCenter } from './pages/governmentServices/primaryHealthCenter';
 import { ProposedMarketForFormers } from './pages/governmentServices/proposedMarketForFarmers'
 import { RailwayStation } from './pages/governmentServices/railwayStation(water)';
-import { All } from './pages/governmentServices/all';
+
 
 function App() {
   return (
@@ -32,7 +32,6 @@ function App() {
           <Route path='/gov/firestation' element={<FireStation />} />
           <Route path='/gov/agricultureoffices' element={<AgricultureOffices />} />
           <Route path='/gov/communityhall' element={<CommunityHall />} />
-          {/*<Route  path='/gov/' element={<CommonServiceCenter/>}*/}
           <Route path='/gov/govartcollege' element={<GovArtCollege />} />
           <Route path='/gov/govschool' element={<GovSchool />} />
           <Route path='/gov/govsubsidizationprogramme' element={<GovSubsidizationProgramme />} />

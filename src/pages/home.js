@@ -26,6 +26,7 @@ export const Home = () => {
                 </div>
             </div>
 
+
             <div className='middle-full'>
                 <h3 className='middle-head-home'>
                     Features
@@ -48,6 +49,18 @@ export const Home = () => {
                         <br />
                         <p className='con'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, Tenkasi's unique characteristics set it apart as a deserving area of attention. Its rich agricultural landscape contributes significantly to the region's economy, and establishing streamlined access to government services could be transformative for local farmers and beneficiaries.</p>
                     </div>
+                </div>
+            </div>
+            <div className='main-cointainer'>
+                <div className='left-container'>
+                    <div className='con black'>
+                    Tenkasi, a picturesque town located in the district of Tirunelveli, Tamil Nadu, India, can now be explored in all its three-dimensional glory. Experience the stunning landscape and architectural wonders of Tenkasi through the mesmerizing Satellite 3D Map. This interactive map allows you to virtually wander through the town's vibrant streets, marvel at its historical landmarks, and immerse yourself in the surrounding natural beauty. Whether you are a curious traveler planning to visit Tenkasi or simply seeking to appreciate its splendor from afar, this 3D map offers a captivating perspective of this enchanting destination. To witness the magic of Tenkasi in 3D, click the link below:
+                        <a className='red' href="http://www.maphill.com/india/tamil-nadu/tirunelveli-kattabomman/tenkasi/3d-maps/satellite-map/" title="Satellite 3D Map of Tenkāsi">Satellite 3D Map of Tenkāsi</a>
+                    </div>
+                </div>
+                <div className='right-cointainer'>
+                    <a href="http://www.maphill.com/india/tamil-nadu/tirunelveli-kattabomman/tenkasi/3d-maps/satellite-map/" title="Satellite 3D Map of Tenkāsi">
+                        <img className='mm' src="http://maps.maphill.com/atlas/9n00-77e25/3d-maps/satellite-map/fancy-satellite-3d-map-of-tenkasi.jpg" alt="Satellite 3D Map of Tenkāsi" /></a><br />
                 </div>
             </div>
         </div>
